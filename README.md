@@ -1,6 +1,14 @@
 # Legal AI Workflows
 
 ## Overview
+## Quick Start
+
+1. Navigate to the /workflows folder  
+2. Select a workflow based on your objective  
+3. Follow step-by-step instructions  
+4. Use templates (where applicable) to execute  
+
+These workflows are designed for direct real-world use.
 This repository provides structured, real-world workflows for legal automation, financial systems, and pro se litigation support.
 
 The objective is to convert complex legal and financial processes into clear, repeatable systems that individuals can execute without institutional dependency.

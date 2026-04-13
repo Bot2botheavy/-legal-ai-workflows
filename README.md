@@ -1,5 +1,5 @@
 # Legal AI Workflows
-
+> A structured system for legal and financial workflow execution.
 ## Overview
 ## Quick Start
 
@@ -14,7 +14,7 @@ This repository provides structured, real-world workflows for legal automation, 
 The objective is to convert complex legal and financial processes into clear, repeatable systems that individuals can execute without institutional dependency.
 
 ---
-
+___
 ## Core Systems
 
 ### 1. Credit Dispute Automation (FCRA)
@@ -29,15 +29,21 @@ End-to-end process for defending consumer debt lawsuits:
 ### 3. Trust & Financial Structuring
 Frameworks for organizing accounts, assets, and financial flows under structured entities.
 
----
 
+---
 ## Repository Structure
 
 /workflows → Step-by-step execution systems  
 /templates → Letters, motions, scripts  
 /docs → Deep explanations and frameworks  
 
----
+___
+
+## Templates
+
+- Credit Dispute Letter (FCRA)
+
+Templates are designed to be copied, modified, and used directly.
 
 ## Real-World Application
 
@@ -51,7 +57,7 @@ These systems are actively used in:
 
 ## Tools & Stack
 
-- AI systems (Claude, LLM workflows)
+- AI systems (Claude, structured LLM workflows)
 - Automation tools (n8n)
 - Document processing pipelines
 
@@ -67,4 +73,6 @@ These systems are actively used in:
 
 ## Status
 
-Active development. Expanding into a full open-source legal workflow library.
+Active development.
+
+This repository is being expanded into a structured open-source system for legal automation, financial workflows, and litigation support.
